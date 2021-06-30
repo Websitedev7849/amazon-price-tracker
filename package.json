@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.6.1",
+    "puppeteer": "^9.1.1"
+  }
+}
